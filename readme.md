@@ -1,6 +1,6 @@
 <h1>Team : Fortis</h1>
 <h2>IP Project</h2>
-<h3>Members:</h3>
+<h3>Members</h3>
 <ul>
 	<li>U1610007 Abdulmalik Mamirov</li>
 	<li>U1610159 Murodillo Ismatov</li>
